@@ -1,6 +1,6 @@
 ## Oiii gentih 👋
 - 🔭Atualmente: Estou buscando adquirir experiência na área
-- 🌱Atualmente Estudando: JavaScript, Java, Python
+- 🌱Estudando: JavaScript, Java, Python
 - 💬Sobre mim: 4 Anos na Área. comecei como um hobbie e conclui o Ensino Médio junto a um Curso Técnico.
 - ⚡Sobre meu GitHub: Vão ter varios tipos de Projetos aqui. De projetos complexos a projetos simples.
 
