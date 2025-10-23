@@ -10,7 +10,6 @@ In my free time, I like to play Online Games(🕹️).
 
 * 🌍  I'm based in Cuiabá - MT and planning to move to São Paulo - SP
 * ✉️  You can contact me at [heitortski@gmail.com](mailto:heitortski@gmail.com)
-* 🤝  I'm open to collaborating on Ruby on Rails projects
 
 ### Skills
 
